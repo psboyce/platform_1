@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/psboyce/alpine
+	branch = origin
+	commit = 4a2d43148120e7c9f94157f1cee703fb6f35a17f
+	parent = 6c5996a5b20b4a6455a1b1c2db33269a26e12a4f
+	cmdver = 0.3.1
